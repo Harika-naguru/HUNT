@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">hunt2</string>
-    <string name = "my_map_api_key">AIzaSyC_yyYTrBktb36wpiTy2S_TEP6vYIPu-qw</string>"
+    <string name="my_map_api_key">AIzaSyC_yyYTrBktb36wpiTy2S_TEP6vYIPu-qw</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>"
 </resources>
